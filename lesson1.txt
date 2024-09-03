@@ -7,3 +7,4 @@ Hi Dimi!
 Hallo Dimi! 
 Hello from Tamia
 Hello from Alexander!
+<git test push and pull>
