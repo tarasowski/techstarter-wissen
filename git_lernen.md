@@ -1,6 +1,8 @@
 
 ist eine übersetzung von https://github.com/UnseenWizzard/git_training unter unter der Attribution-ShareAlike 4.0 International lizenz
 
+übersetzt mit chatgpt 4o von [fchristian1](https://github.com/fchristian1)
+
 # Git-Konzepte lernen, nicht nur Befehle
 
 **Ein interaktives Git-Tutorial, das dir beibringt, wie Git funktioniert, und nicht nur, welche Befehle du ausführen musst.**
