@@ -6,4 +6,8 @@ Hello von Ilona!
 Hi Dimi! 
 Hallo Dimi! 
 Hello from Tamia
-Hello from Alexander!
+Hello from Alexander 2.0!
+
+
+
+Das ist eine Änderung aus dem Terminal gepushed!
